@@ -1,4 +1,4 @@
-#[PONG](https://fr.wikipedia.org/wiki/Pong)
+# [PONG](https://fr.wikipedia.org/wiki/Pong)
 
 This is a small experiment to implement a version of the classic Pong game in an LUA
 
